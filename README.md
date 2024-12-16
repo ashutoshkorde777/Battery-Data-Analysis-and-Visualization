@@ -5,7 +5,7 @@ This project processes and visualizes **battery performance data** such as charg
 ## Table of Contents
 - [Overview](#overview)
 - [How to Run](#how-to-run)
-- [Sample Visualizations](#Sample Visualizations)
+- [Sample Visualizations](#Sample-Visualizations)
 
 ---
 
@@ -42,6 +42,13 @@ Follow these steps to run the analysis:
  ```bash
   python app.py
 ```
-##Sample Visualizations
+## Sample Visualizations
+Here is an example of the battery impedance graph:
+
+![Battery Impedance](1.png)
+
+And here is the graph for the change in `Re` and `Rct` values over cycles:
+
+![Re and Rct Over Cycles](2.png)
 
 
